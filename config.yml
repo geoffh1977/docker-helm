@@ -1,0 +1,17 @@
+---
+# Project Variables
+dockerUser: geoffh1977
+dockerUserEmail: geoffh1977@gmail.com
+license: gnu-gpl-v3.0
+
+# Source Build Variables
+buildImageName: alpine
+buildImageVersion: latest
+
+# Final Image Variables
+finalImageName: helm
+finalImageVersion: 2.13.1
+
+# Application Config
+appName: Helm
+helmSha256: c1967c1dfcd6c921694b80ededdb9bd1beb27cb076864e58957b1568bc98925a
